@@ -19,6 +19,9 @@ No test framework yet. After changes run:
 npm run lint
 npx tsc --noEmit
 ```
+## Skills
+
+Usa siempre su /frontend-design para diseñar la interfaz de usuario. 
 
 ## Design source
 
